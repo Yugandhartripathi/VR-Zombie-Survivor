@@ -1,2 +1,2 @@
-# survivor
+# VR-Zombie-Survivor
 Unity game
